@@ -12,10 +12,10 @@ There are 3 rules that every boid must follow -
 
 Using these 3 simple rules, we can describe amazing emergent behaviour akin to flocks of birds or schools of fish.
 
-![Boids](https://imgur.com/gE2mPh9.gif)
-
 ## Boid Simulation
 This simultaion uses Unity to render a flock of boids in 2D to simulate a flocking behaviour. A single controller script iterates over every boid per frame and calculates the contribution of each rule in steering said boid object. An addition to the original simulation is done in the manner of visual range. As animals in a flock can only reastically be aware of other animals in their immediate vicintiy, the simulation attempts to do the same by limiting all behavioural decisions by a boid on those that are near it. This results in the formation of smaller flocks that can operate semi-independently of other smaller flocks. However all smaller flocks still operate loosely as one unit. 
+
+![Boids](https://imgur.com/gE2mPh9.gif)
 
 # Links
 - [1] http://www.red3d.com/cwr/boids/
