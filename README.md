@@ -16,5 +16,5 @@ Using these 3 simple rules, we can describe amazing emergent behaviour akin to f
 This simultaion uses Unity to render a flock of boids in 2D to simulate a flocking behaviour. A single controller script iterates over every boid per frame and calculates the contribution of each rule in steering said boid object. An addition to the original simulation is done in the manner of visual range. As animals in a flock can only reastically be aware of other animals in their immediate vicintiy, the simulation attempts to do the same by limiting all behavioural decisions by a boid on those that are near it. This results in the formation of smaller flocks that can operate semi-independently of other smaller flocks. However all smaller flocks still operate loosely as one unit. 
 
 # Links
--[1] http://www.red3d.com/cwr/boids/-
--[2] https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html
+- [1] http://www.red3d.com/cwr/boids/
+- [2] https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html
