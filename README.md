@@ -1,6 +1,6 @@
 # BoidSimulation
 A 2D simulation of Craig Reynold's Boids[^1] using Unity.
-Refernce Pseudocode by Conrad Parker[^2].
+Reference Pseudocode by Conrad Parker[^2].
 ### Program by Anav Chaudhary[^3].
 
 ## Boids
