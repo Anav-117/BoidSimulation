@@ -1,7 +1,7 @@
 # BoidSimulation
-A 2D simulation of Craig Reynold's Boids[1] using Unity.
-Refernce Pseudocode by Conrad Parker[2].
-### Program by Anav Chaudhary[3].
+A 2D simulation of Craig Reynold's Boids[^1] using Unity.
+Refernce Pseudocode by Conrad Parker[^2].
+### Program by Anav Chaudhary[^3].
 
 ## Boids
 Boids are used for simulating the swarming and flocking behaviour exhibited by various animals (most notably birds and fish), through a very simple set of rules.
@@ -18,6 +18,6 @@ This simultaion uses Unity to render a flock of boids in 2D to simulate a flocki
 ![Boids](https://imgur.com/gE2mPh9.gif)
 
 # Links
-- [1] http://www.red3d.com/cwr/boids/
-- [2] https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html
-- [3] https://boidsimulation.000webhostapp.com/
+- [^1]: http://www.red3d.com/cwr/boids/
+- [^2]: https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html
+- [^3]: https://boidsimulation.000webhostapp.com/
