@@ -6,9 +6,9 @@ Program by Anav Chaudhary.
 ## Boids
 Boids are used for simulating the swarming and flocking behaviour exhibited by various animals (most notably birds and fish), through a very simple set of rules.
 There are 3 rules that every boid must follow - 
-**1. Seperation Rule -** Boids steer away form other boids to avoid collision,
-**2. Alignment Rule -** Boids try to align themselves with the rest of the flock,
-**3. Cohesion Rule -** Boids try to move to the percieved centre of mass of the flock.
+1. **Seperation Rule -** Boids steer away form other boids to avoid collision,
+2. **Alignment Rule -** Boids try to align themselves with the rest of the flock,
+3. **Cohesion Rule -** Boids try to move to the percieved centre of mass of the flock.
 
 Using these 3 simple rules, we can describe amazing emergent behaviour akin to flocks of birds or schools of fish.
 
